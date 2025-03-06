@@ -112,4 +112,4 @@ Este projeto foi desenvolvido como parte de um curso e segue um objetivo educaci
 
 ---
 
-Se precisar de ajustes, como adicionar mais detalhes ou destacar outros pontos, é só pedir! 😊
+
